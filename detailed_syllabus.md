@@ -76,7 +76,7 @@ If the student has not used Git, Python environments, or Jupyter kernels before,
 - Authors’ GitHub repository `WillseyBCILab/BCI_Finger_Decoding_Quadcopter`, fixed at commit `addd54935c84db611d2e181b3f61d9c60aa9c412`.
 - The Dryad data README and the repository README.
 - The student workbook, `undergrad_replication_workbook.ipynb`.
-- The student application guide, `willsey_lab_application_capstone.md`.
+- The student application guide, `student_capstone.md`.
 - `environment.yml` for Conda and `requirements.txt` for `venv`/pip.
 
 ### Computing resources
@@ -165,7 +165,7 @@ There is no point-based assessment rubric. Progress is evaluated through the not
 
 ### Weekly oral check-ins
 
-Each weekly check-in should take approximately 10–15 minutes. The instructor will normally:
+Each weekly check-in should take approximately 30 minutes, with up to 45 minutes for the decoder, dSNR, final-validation, and application modules. The instructor will normally:
 
 1. inspect the week’s committed notebook, output files, tests, and AI/search attachment;
 2. choose one function or analytical choice and ask the student to explain its purpose, shapes, units, assumptions, and likely failure mode;
@@ -206,7 +206,7 @@ All submitted analyses are expected to satisfy the following standards:
 - Discrepancies are retained and classified rather than hidden by manual editing.
 - The completed notebook runs from top to bottom from a clean kernel and regenerates outputs from an empty output directory.
 
-## Ten-week schedule
+## Eleven-week schedule
 
 ### Week 1 — Environment, scope, preregistration, and provenance
 
@@ -675,7 +675,7 @@ All submitted analyses are expected to satisfy the following standards:
 
 ### Week 11 — Willsey Lab application-readiness capstone
 
-**Notebook coverage:** Module 11 and `willsey_lab_application_capstone.md`.
+**Notebook coverage:** Module 11 and `student_capstone.md`.
 
 Begin this week only after the technical defense. Recheck all current lab facts and joining instructions during the application week; positions and research emphases can change.
 
