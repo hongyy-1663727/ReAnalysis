@@ -1,0 +1,53 @@
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Python and Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local environments
+.venv/
+venv/
+env/
+.conda/
+
+# Credentials and private configuration
+.env
+.env.*
+*.pem
+*.key
+credentials*
+secrets*
+
+# Released data, checkpoints, and large archives
+work/replication/Data/
+work/code_audit/
+*.mat
+*.pt
+*.pth
+*.ckpt
+*.zip
+*.tar
+*.tar.gz
+
+# Private course/application records
+portfolio/private_application/
+private_application/
+ai_exports/
+private_ai_logs/
+instructor_answer_key.md
+instructor_guide.md
+instructor_expected_values.json
+assessment_rubric.md
+
+# Regenerable caches
+outputs/student_replication/cache/
+*.tmp
+*.log
